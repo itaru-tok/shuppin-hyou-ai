@@ -1,0 +1,3 @@
+# Azure OCR (Document Intelligence)
+azure-ai-documentintelligence
+azure-identity
